@@ -5,7 +5,7 @@
 <p align='center' >New Zealand based Platform Engineer, Empowering DevSecOps Excellence </p>
 
 
-### Skills :
+### Technologies I play with :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -57,57 +57,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernets/kubernetes-original.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
 </div>
 
 <br />
 
-### Security tools : 
-<div align="left">
-        <img src="https://www.pngkey.com/png/full/549-5496472_burp-suite-icon.png" height="40" alt="Burpsuite" /><img
-                width="12" />
-        <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" height="40" alt="Hashcat" /><img width="12" />
-        <img src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" height="40" alt="dirbuster" /><img
-                width="12" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png"
-                height="40" alt="Wireshark" /><img width="12" />
-        <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="Nmap" /><img width="12" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png"
-                height="40" alt="Kali Linux" /><img width="12" />
-        <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="40" alt="Hydra" /><img width="12" />
-        <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" height="40"
-                alt="Sqlmap" /><img width="12" />
-        <img src="https://gitlab.com/uploads/-/system/group/avatar/8033162/edb-spider-orange.png" height="40"
-                alt="Exploit-db" /><img width="12" />
-        <img src="https://www.techspot.com/images2/downloads/topdownload/2017/05/jtr.png" height="40"
-                alt="John The Ripper" /><img width="12" />
-        <img src="https://cdn.inspireuplift.com/uploads/images/seller_products/30681/1702934471_Metasploit.png"
-                height="40" alt="Metasploit" /><img width="12" />
-        <img src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" height="40" alt="Ettercap" /><img
-                width="12" />
-        <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" height="40" alt="WFuzz" /><img width="12" />
-        <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" height="40" alt="Gobuster" /><img
-                width="12" />
-        <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" height="40" alt="Netcat" /><img
-                width="12" />
-        <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" height="40" alt="Aircrack" /><img
-                width="12" />
-        <img src="https://www.wappalyzer.com/images/logo/mark-dark.png" height="40" alt="Wappalyzer" /><img
-                width="12" />
-        <img src="https://is1-ssl.mzstatic.com/image/pf/us/r30/Purple/v4/6c/7d/84/6c7d8436-2454-f914-82dc-4660c833d870/mzm.fpkxtkby.png"
-                height="40" alt="Shodan" /><img width="12" />
-        <img src="https://sathisharthars.wordpress.com/wp-content/uploads/2014/03/logo_nessus_fullcolor_rgb-01.png"
-                height="40" alt="Nessus" /><img width="12" />
-        <img src="https://www.kali.org/tools/wordlists/images/wordlists-logo.svg" height="40" alt="Seclist" /><img
-                width="12" />
-        <img src="https://www.kali.org/tools/cewl/images/cewl-logo.svg" height="40" alt="Cewl" /><img width="12" />
-        <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" height="40" alt="Nikto" /><img width="12" />
-        <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" height="40" alt="Ffuf" /><img width="12" />
-        <img src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" height="40" alt="tcpdump" /><img
-                width="12" />
-        <img src="https://www.kali.org/tools/amass/images/amass-logo.svg" height="40" alt="Amass" /><img width="12" />
-        <!-- <img src="" height="40" alt="" /><img width="12" /> -->
-</div>
-<br />
 
 ### Github stats :
 <p><img height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nzineer&show_icons=true&locale=en&layout=compact&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=27272a&show_icons=true&hide=%22%20alt=%22nzineer%22" /></p>
